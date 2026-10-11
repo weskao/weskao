@@ -4,6 +4,8 @@ Flutter Engineer (4 years) · Software Engineer (8 years) · AI-assisted develop
 
 I build cross-platform mobile applications with Flutter and practical developer tools that make AI-assisted engineering reliable and repeatable.
 
+Personal site: https://weskao.netlify.app/
+
 ## Focus
 
 - Flutter application development across Android, iOS, web, macOS, Windows, and Linux
