@@ -6,6 +6,8 @@ I build cross-platform mobile applications with Flutter and practical developer 
 
 Personal site: https://weskao.netlify.app/
 
+GitHub: https://github.com/weskao?tab=repositories
+
 ## Focus
 
 - Flutter application development across Android, iOS, web, macOS, Windows, and Linux
@@ -28,3 +30,4 @@ My background includes Flutter, .NET MVC / .NET Core, HTML, JavaScript, CSS, Vue
 - Production-grade Flutter applications
 - AI-assisted software delivery and agent workflows
 - Developer experience, automation, and cross-platform tooling
+
